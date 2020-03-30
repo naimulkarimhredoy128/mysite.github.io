@@ -1,0 +1,57 @@
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(dp.jpg);
+    height: 100vh;
+    background-size:cover
+    background-position: center;
+    
+
+}
+h1:hover{
+    background-color: black;
+    color: red;
+}
+h1{
+    background-color: black;
+    color: darkturquoise;
+    font-size: 25px;
+     position: absolute;
+    top: 60%;
+    left: 48%;
+    transform: translate(-50%,-50%);
+    border: 1px;
+    padding: 5px;
+}
+.myclass{
+    background-color: black;
+    color:darkturquoise;
+    font-size: 25px;
+     position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 0px;
+    padding: 0px;
+}
+.myclass:hover{
+    background-color: black;
+    color: red;
+}
+h2{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.myclass2{
+     
+    display: inline-block;
+   position: absolute;
+    top: 62.5%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    background-color: darkturquoise;
+    color: red;
+}
+
+
+

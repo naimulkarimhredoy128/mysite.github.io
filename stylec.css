@@ -1,0 +1,99 @@
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(contact2.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+h1:hover{
+    background-color: black;
+    color: red;
+}
+h1{
+    color: white;
+    font-size: 35px;
+     position: absolute;
+    top: 45%;
+    left: 74%;
+    transform: translate(-50%,-50%);
+    border: 1px;
+    padding: 5px;
+}
+.myclass{
+    color: white;
+    font-size: 25px;
+     position: absolute;
+    top: 80%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+    border: 0px;
+    padding: 0px;
+}
+.myclass:hover{
+    background-color: black;
+    color: red;
+}
+ .fa{
+    margin-left: 10px;
+}
+
+.myclass2{
+     
+    display: inline-block;
+   position: absolute;
+    top: 65.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: darkturquoise;
+    color: red;
+}
+.myclass3{
+     
+    display: inline-block;
+   position: absolute;
+    top: 75.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: red;
+}
+.myclass4{
+     
+    display: inline-block;
+   position: absolute;
+    top: 85.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: red;
+}
+.myclass5{
+     
+    display: red;
+   position: absolute;
+    top: 95.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: red;
+}
+.myclass5{
+     
+    display: red;
+   position: absolute;
+    top: 95.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: red;
+}
+.myclass5{
+     
+    display: red;
+   position: absolute;
+    top: 95.5%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: red;
+}
+
